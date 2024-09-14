@@ -1,4 +1,4 @@
 # latihan-kolaborasi
-pembelajar GitHub di Dicoding sangat seru
-Belajar commit
-Belajar kolaborasi
+pembelajar GitHub di Dicoding sangat seru<br>
+Belajar commit<br>
+Belajar kolaborasi<br>
